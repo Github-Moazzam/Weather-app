@@ -108,3 +108,28 @@ body{
     display: none;
 
 }
+
+@media (max-width:460px) {
+    .card{
+ 
+    padding: 40px 10px;
+    
+}
+.search button{
+
+    width: 40px;
+    height: 40px;
+    
+}
+
+.search input {
+
+    margin-right: 10px;
+    height: 42px;
+}
+
+.details{
+    padding: 0 10px;
+}
+
+}
